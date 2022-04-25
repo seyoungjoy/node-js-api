@@ -1,0 +1,23 @@
+{
+  "name": "js-api",
+  "version": "1.0.0",
+  "description": "## API란?",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyoungjoy/node-js-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyoungjoy/node-js-api/issues"
+  },
+  "homepage": "https://github.com/seyoungjoy/node-js-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid-apikey": "^1.5.3"
+  }
+}
